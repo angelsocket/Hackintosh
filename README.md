@@ -1,0 +1,2 @@
+# Hackintosh
+stuff for hackintosh
